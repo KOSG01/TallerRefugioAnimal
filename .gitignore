@@ -1,0 +1,37 @@
+# NetBeans IDE
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+*.jar
+
+# IDE files
+.netbeans/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Maven/Gradle
+target/
+.gradle/
+
+# Visual Studio Code
+.vscode/
+
+# Package Files
+*.zip
+*.rar
+*.tar.gz
