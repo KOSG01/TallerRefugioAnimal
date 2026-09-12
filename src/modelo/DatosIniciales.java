@@ -8,7 +8,7 @@ public class DatosIniciales {
 
     public static Mascota[] crearMascotas() {
         Mascota[] mascotas = new Mascota[18];
-        mascotas[0] = new Perro(108, "Luna", 4, 18.5, 101, false, true, "Mestizo");
+        mascotas[0] = new Perro(108, "Sol", 4, 18.5, 101, false, true, "Mestizo");
         mascotas[1] = new Gato(103, "Milo", 2, 4.2, 102, false, false, true);
         mascotas[2] = new Conejo(115, "Nube", 1, 2.1, 103, false, true, "Blanco");
         mascotas[3] = new Perro(101, "Max", 7, 26.0, 104, true, true, "Labrador");
