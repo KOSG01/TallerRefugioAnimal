@@ -45,6 +45,7 @@ public class ActualizacionMascotaServicio {
      */
     public boolean actualizarPeso(Mascota[] mascotas, int id, double nuevoPeso)
             throws DatoInvalidoException {
+        Hice un cambio aquí :D
         // TODO ESTUDIANTE 02: implementar la actualización de peso.
         // Pasos:
         // 1. Validar que el peso sea > 0, sino lanzar DatoInvalidoException
